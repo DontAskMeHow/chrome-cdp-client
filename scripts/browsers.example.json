@@ -1,0 +1,8 @@
+{
+  "chrome_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+  "copies": [
+    {"name": "1", "port": 9222, "profile": "C:\\browser-profiles\\1", "profile_subdir": "Profile 1"},
+    {"name": "2", "port": 9223, "profile": "C:\\browser-profiles\\2"},
+    {"name": "3", "port": 9224, "profile": "C:\\browser-profiles\\3"}
+  ]
+}
